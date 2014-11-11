@@ -1,7 +1,5 @@
 <?php namespace Thujohn\Rss;
 
-use Thujohn\Rss\Channel;
-
 class Rss {
 	protected $version = '';
 	protected $encoding = '';
